@@ -1,3 +1,3 @@
 # Dogkas: Un cuidador a metros de ti
 
-![Dogkas](images/dogkas2.jpg)
+![Dogkas](profile/images/dogkas2.jpg)
